@@ -4,7 +4,7 @@ This is a repository of materials used in the student-led lecture
 
 ## Fall 2025
 ### Section 301 (1 p.m.)
-  - Use Cases
+  - [Use Cases](Fall 2025/Section 301/use.pdf)
   - Process Modeling
   - Object Modeling
   - UI Design
